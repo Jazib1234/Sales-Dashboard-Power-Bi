@@ -19,9 +19,11 @@ Year Slicer: Allows users to filter and view revenue and sales data by specific 
 Month Slicer: Enables users to filter and view revenue and sales data by specific months, both overall and within the selected year.
 
 **Contribution:**
+
 Contributions are welcome! If you have suggestions for improvements or new features, please submit a pull request or open an issue in the repository.
 
 **Contact:**
+
 For any questions or support, please contact on jaziblakhani4@gmail.com.
 
 
