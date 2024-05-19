@@ -26,4 +26,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 For any questions or support, please contact on jaziblakhani4@gmail.com.
 
+![image](https://github.com/JazibLakhani/Sales-Dashboard-Power-Bi/assets/163766204/a93b3f98-1bfa-486f-90fb-efde710e9252)
+
 
