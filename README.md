@@ -2,6 +2,7 @@
 This repository contains a Power BI project for a Sales Dashboard. The dashboard provides a comprehensive view of key sales metrics, including total revenue, sales quantity by city, top products, top customers, and revenue trends. The data for this dashboard is imported from a SQL database and connected to Power BI. This dashboard is designed to help businesses analyze their sales performance and make data-driven decisions.
 
 **Features:**
+
 Total Revenue: Displays the overall revenue generated over a specified period.
 Sales Quantity by City: Shows the quantity of sales segmented by different cities.
 Top Products: Lists the top-performing products based on sales revenue.
